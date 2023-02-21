@@ -34,7 +34,7 @@ const crypto = () => {
             email address and can then sign in to save coins to a user specific
             list. This is made possble by creating a firestore cloud storage
             database at the time of user registration. Another feature of this
-            application is dynamic routing through the &quot;React Router DOM&quot;
+            application is dynamic routing through the &quot; React Router DOM&quot;
             package. This application was built using the Coin Gecko API.
           </p>
           <a
