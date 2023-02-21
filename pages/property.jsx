@@ -37,7 +37,7 @@ const property = () => {
             properties. This is made possible with Zillow API.
           </p>
           <a
-            href='https://github.com/fireclint/property-finder'
+            href='https://github.com/princeAkim226/Prince_ChatX'
             target='_blank'
             rel='noreferrer'
           >
