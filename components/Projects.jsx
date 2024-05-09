@@ -19,27 +19,27 @@ const Projects = () => {
           <ProjectItem
             title='Resumons les articles '
             backgroundImg={propertyImg}
-            projectUrl='/property'
+            projectUrl='https://aisumrize.vercel.app/'
             tech='React JS'
           />
           <ProjectItem
-            title='Crypto App'
+            title='Mon chatGPT'
             backgroundImg={cryptoImg}
             projectUrl='https://prince-chat-x.vercel.app/'
             tech='React JS'
 
           />
           <ProjectItem
-            title='Netflix App'
+            title='Mon site web pro'
             backgroundImg={netflixImg}
-            projectUrl='/netflix'
+            projectUrl='https://digitalgoalservices.vercel.app/'
             tech='React JS'
 
           />
           <ProjectItem
-            title='Twitch UI'
+            title='Application de finance'
             backgroundImg={twitchImg}
-            projectUrl='/twitch'
+            projectUrl='https://money-tracker-jet.vercel.app'
             tech='Next JS'
 
           />
