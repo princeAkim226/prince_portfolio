@@ -13,25 +13,25 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            Je suis un 🧑‍💻 dev web et mobile full stack. 
-            Je suis passionné par l'apprentissage de nouvelles technologies
-            et je comprends qu'il existe plus d'une façon d'accomplir une tâche. 
-            Bien que je sois le plus compétent dans la construction de front-ends avec React et NextJS. 
-            Pour le mobile, j'utilise Flutter 📱. 
-            Je suis un apprenant rapide et je peux m'adapter à de nouvelles piles technologiques au besoin.
-            Je crois qu'être un excellent développeur ne consiste pas à utiliser un langage spécifique,
-            mais à choisir le meilleur outil pour le travail. ✨
+            I specialize in building mobile responsive front-end UI applications
+            that connect with API’s and other backend technologies. I’m
+            passionate about learning new technologies and understand there is
+            more than one way to accomplish a task. Though I am most proficient
+            in building front-end applications using HTML, CSS, Javascript, and
+            React, I am a quick learner and can pick up new tech stacks as
+            needed. I believe that being a great developer is not using one
+            specific language, but choosing the best tool for the job.
           </p>
           <p className='py-2 text-gray-600'>
-           J'ai commencé le développement web en 2019 en gérant plusieurs sites web. 
-            J'ai de l'expérience en travail direct avec les clients, 
-            en prenant des prototypes filaires (mock wireframes) et en les transformant en applications déployées.
-            Pendant mon temps libre, 
-            je gère Digital Goal, une chaîne YouTube où j'enseigne le développement web et diverses technologies front-end.
+            I started web developement in 2019 managing multiple
+            websites . I have experience working directly with clients and taking
+            mock wireframes all the way to deployed applications. In my spare
+            time I run Digital Goal, a Youtube channel where I teach web
+            developement and various front-end technologies.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
-              Quelques projects
+              Check out some of my latest projects.
             </p>
           </Link>
         </div>
