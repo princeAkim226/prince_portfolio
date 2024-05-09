@@ -15,10 +15,10 @@ const Main = () => {
           <h1 className='py-4 text-gray-700'>
             Hi, I&#39;m <span className='text-[#5651e5]'> Prince Akim</span>
           </h1>
-          <h1 className='py-2 text-gray-700'>A Front-End Web Developer</h1>
+          <h1 className='py-2 text-gray-700'>A Full Stack Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-            I’m focused on building responsive front-end web applications
-            integrating back-end technologies.
+            I’m focused on building responsive full stack  web and mobile applications.
+            
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
