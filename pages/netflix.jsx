@@ -27,7 +27,7 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            I built this application in React JS and is hosted on GitHub pages.
+            built this application in React JS and is hosted on GitHub pages.
             This app features user authentication with firebase as well as the
             firestore cloud storage database. This application is pulling movie
             data from an the IMDB movie API and displaying different categories.
